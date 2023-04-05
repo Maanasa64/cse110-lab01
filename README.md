@@ -1,2 +1,2 @@
 # Maanasa's User Page
-## M favorite programming language is Python
+## My favorite programming language is Python
