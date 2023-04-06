@@ -5,7 +5,7 @@
 
 ***This is me!***
 
-![Image](unnamed (1).jpg)
+![Image](unnamed(1).jpg)
 
 I am currently working on a research project under Dr. Debashis Sahoo in the Boolean Lab at UCSD.
 
@@ -23,7 +23,7 @@ FUN FACT:
 I love animals.
 > I have a doggo!
 
-![A BRUNO PICTURE](unnamed (2).jpg)
+![A BRUNO PICTURE](unnamed(2).jpg)
 
 Ranking my top 3 TV shows:
 1. Breaking Bad
