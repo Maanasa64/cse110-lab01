@@ -18,7 +18,7 @@ I am familiar with the following programming langages:
 - Javascript
 
 To  demonstrate my github skills:-
-[This](welcome-to-my-user-page) is an example of a Section Link.
+[This](#welcome-to-my-user-page) is an example of a Section Link.
 
 ### [I love making sweets](https://youtu.be/HPd3-kVTKKo)
 
