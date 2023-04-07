@@ -10,12 +10,12 @@
 I am currently working on a research project under Dr. Debashis Sahoo in the Boolean Lab at UCSD.
 
 I am familiar with the following programming langages:
-- `Java`
-- `Python`
-- `C++`
-- `C`
-- `Assembly`
-- `Javascript`
+- Java
+- Python
+- C++
+- C
+- Assembly
+- Javascript
 
 ### [I love making sweets](https://youtu.be/HPd3-kVTKKo)
 
@@ -37,3 +37,9 @@ My goal for this quarter is:
 - [ ] pass this class 
 - [ ] apply for internships
 - [x] sleep  well!
+
+```
+if (grade_in_CSE110 == 'A'){
+  print("HAPPY!!")
+}
+```
